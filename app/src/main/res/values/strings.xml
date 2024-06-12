@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Sql</string>
+
+    <string name="login">INICIO DE SESIÓN</string>
+    <string name="username">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="InitLogin">Iniciar Sesión</string>
+    <string name="registerLogin">¿Desea Registrarse?</string>
+
+
+    <string name="welcome">BIENVENIDO(A)</string>
+
+</resources>
